@@ -33,5 +33,4 @@ To deploy this project run
 ``` 
 
 6. You are all set , also you can check the requirements.txt file for the essential requirements for the project.
-# Inventory-Management-System
 
